@@ -1,0 +1,32 @@
+.Header {
+    width: 100vw;
+    height: 80px;
+    background-color: darksalmon;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.37);
+    position: fixed;
+    z-index: 1;
+}
+
+.Header h1 {
+    margin-left: 15vw;
+    letter-spacing: 1px;
+}
+
+.Header nav {
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    letter-spacing: 1px;
+    margin-right: 14vw;
+}
+
+.Header p {
+    cursor: pointer;
+}
+
+.Header p:hover {
+    filter: drop-shadow(2px 2px 2px #585858);
+}
