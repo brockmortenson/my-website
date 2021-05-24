@@ -1,6 +1,6 @@
 .Main {
     width: 100vw;
-    height: 100vh;
+    height: 1000%;
     display: flex;
     justify-content: center;
 }
@@ -11,8 +11,8 @@
     padding: 40px;
     position: relative;
     top: 80px;
-    border-left: 5px double darksalmon;
-    border-right: 5px double darksalmon;
+    border-left: 7px double darksalmon;
+    border-right: 7px double darksalmon;
 }
 
 .main-container img {

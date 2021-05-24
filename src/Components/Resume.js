@@ -1,11 +1,12 @@
-import { Document } from 'react-pdf/dist/esm/entry.webpack';
-// import webDevPDF_Resume from '../images/webDevPDF_Resume';
+import resume_screenshot from '../images/resume_screenshot.png'
 import '../styles/resume.css';
 
 function Resume() {
     return (
         <div className='Resume'>
-            {/* <Document file='webDevPDF_Resume' /> */}
+            <div className='resume-container'>
+                <img src={resume_screenshot} alt='brock_resume' />
+            </div>
         </div>
     )
 }
