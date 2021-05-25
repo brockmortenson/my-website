@@ -15,8 +15,67 @@
     border-right: 7px double darksalmon;
 }
 
-.main-container img {
+.about {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#profile-pic {
     width: 400px;
     height: 400px;
     border-radius: 50%;
+}
+
+.main-container section {
+    width: 400px;
+}
+
+.git-linked {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#github {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    margin-right: 10px;
+    box-shadow: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#linkedin {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    margin-left: 10px;
+    box-shadow: none;
+    cursor: pointer
+}
+
+#github:hover {
+    filter: drop-shadow(2px 2px 2px #858585);
+}
+
+#linkedin:hover {
+    filter: drop-shadow(2px 2px 2px #858585);
+}
+
+.biography {
+    width: 500px;
+    margin-top: 100px;
+}
+
+.biography h1 {
+    text-align: center;
+    padding-bottom: 10px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.skills {
+    width: 100%;
+    text-align: center;
 }
