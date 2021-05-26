@@ -18,13 +18,10 @@ function Landing() {
                     </section>
                     <div className='biography'>
                         <h1>About Me</h1>
-                        <p>I am a full-stack developer in Logan, Utah with a passion for computer science. In 2021, I attended an immersive coding bootcamp named Dev Mountain, where I trained in a full React.js stack for web development which included React, Node, Express, Redux, and PostgreSQL.</p>
+                        <p>I am a full-stack developer in Logan, Utah with a passion for both the hardware and software aspects of computers. In 2021, I attended an immersive coding bootcamp named Devmountain, where I trained in React-based applications, learning full-stack web development. The full-stack I was taught included React, Node, Express. and PostgreSQL.</p>
+                        <br />
+                        <p>In my free time I occasionally run marathons, play video games, and build computers. I also enjoy casually coding and developing simple web applications such as this website. </p>
                     </div>
-                </div>
-                <div className='skills'>
-                    <article>
-                        <h2>Skills</h2>
-                    </article>
                 </div>
             </div>
         </div>
