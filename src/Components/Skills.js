@@ -23,7 +23,7 @@ function Skills() {
                         <p>JavaScript ES6</p>
                     </div>
                     <div>
-                        <img src='http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png' />
+                        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png' />
                         <p>HTML5</p>
                     </div>
                     <div>

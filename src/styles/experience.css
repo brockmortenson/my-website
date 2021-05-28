@@ -17,3 +17,35 @@
     border-left: 7px double darksalmon;
     border-right: 7px double darksalmon;
 }
+
+.experience-container h1 {
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 55px;
+}
+
+.my-experience {
+    width: 70%;
+}
+
+.my-experience h2 {
+    font-weight: 500;
+}
+
+.my-experience div {
+    padding: 15px;
+    background-color: rgb(218, 216, 216);
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.35);
+    border-radius: 5px;
+}
+
+.church {
+    padding: 15px;
+    background-color: rgb(218, 216, 216);
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.35);
+    border-radius: 5px;
+}
+
+.my-experience p {
+    margin: 5px 0;
+}
