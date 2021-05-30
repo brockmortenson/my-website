@@ -49,3 +49,16 @@
 .skill-img p {
     margin-top: 10px;
 }
+
+@media (max-width: 1448px) {
+    .skill-img {
+        width: 600px;
+    }
+}
+
+@media (max-width: 1019px) {
+    .skill-img {
+        width: 300px;
+        height: 900px;
+    }
+}

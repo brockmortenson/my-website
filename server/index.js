@@ -1,9 +1,9 @@
 require('dotenv').config();
 const express = require('express');
 const session = require('express-session');
-const app = express();
 const path = require('path');
 
+const app = express();
 
 const { SERVER_PORT, SESSION_SECRET } = process.env;
 

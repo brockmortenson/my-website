@@ -8,11 +8,11 @@ function Landing() {
                     <section>
                         <img id='profile-pic' src='https://avatars.githubusercontent.com/u/78825072?v=4' alt='brock_photo' />
                         <div className='git-linked'>
-                            <a href='https://github.com/brockmortenson' target='_blank'>
-                                <img id='github' src='https://image.flaticon.com/icons/png/512/25/25231.png' />
+                            <a href='https://github.com/brockmortenson' target='_blank' rel='noreferrer'>
+                                <img id='github' src='https://image.flaticon.com/icons/png/512/25/25231.png'alt='github' />
                             </a>
-                            <a href='https://www.linkedin.com/in/brock-mortenson-webdev/' target='_blank'>
-                                <img id='linkedin' src='https://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png' />
+                            <a href='https://www.linkedin.com/in/brock-mortenson-webdev/' target='_blank' rel='noreferrer' >
+                                <img id='linkedin' src='https://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png' alt='linkedin' />
                             </a>
                         </div>
                     </section>
