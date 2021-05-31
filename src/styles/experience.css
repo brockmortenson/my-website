@@ -7,7 +7,7 @@
 
 .experience-container {
     width: 65%;
-    height: 160vh;
+    height: 100vh;
     padding: 40px;
     display: flex;
     flex-direction: column;
@@ -49,4 +49,10 @@
 
 .my-experience p {
     margin: 5px 0;
+}
+
+@media (max-width: 800px) {
+    .experience-container {
+        height: 180vh;
+    }
 }

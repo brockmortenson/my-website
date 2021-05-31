@@ -7,7 +7,7 @@
 
 .main-container {
     width: 65%;
-    height: 110vh;
+    height: 100vh;
     padding: 40px;
     position: relative;
     top: 80px;
@@ -100,5 +100,11 @@
 
     .biography {
         width: 300px;
+    }
+}
+
+@media (max-width: 800px) {
+    .main-container {
+        height: 150vh;
     }
 }
