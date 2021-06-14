@@ -34,6 +34,10 @@ function Skills() {
                         <img src='https://workwiththebest.intraway.com/wp-content/uploads/sites/4/2016/11/asd-2.png' alt='postgresql' />
                         <p>PostgreSQL</p>
                     </div>
+                    <div>
+                        <img src='https://jasonhaxstuff.gallerycdn.vsassets.io/extensions/jasonhaxstuff/discord-js-tools/0.0.3/1530824658924/Microsoft.VisualStudio.Services.Icons.Default' alt='discord.js' />
+                        <p>Discord.js</p>
+                    </div>
                 </section>
             </div>
         </div>

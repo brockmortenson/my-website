@@ -7,7 +7,7 @@
 
 .experience-container {
     width: 65%;
-    height: 100vh;
+    height: 125vh;
     padding: 40px;
     display: flex;
     flex-direction: column;
@@ -16,6 +16,10 @@
     top: 80px;
     border-left: 7px double darksalmon;
     border-right: 7px double darksalmon;
+}
+
+article {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.274);
 }
 
 .experience-container h1 {
@@ -31,6 +35,8 @@
 
 .my-experience h2 {
     font-weight: 500;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.274);
+    padding-bottom: 15px;
 }
 
 .my-experience div {
@@ -54,5 +60,17 @@
 @media (max-width: 800px) {
     .experience-container {
         height: 180vh;
+    }
+}
+
+@media (max-width: 588px) {
+    .experience-container {
+        height: 210vh;
+    }
+}
+
+@media (max-width: 490px) {
+    .experience-container {
+        height: 230vh;
     }
 }

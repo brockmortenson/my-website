@@ -1,3 +1,5 @@
+import goTravel from '../images/goTravelScrn.png';
+import creativeMkrt from '../images/creativeMkrt.png';
 import '../styles/projects.css';
 
 function Projects() {
@@ -28,6 +30,21 @@ function Projects() {
                             </div>
                         </div>
                     </article>
+                    <article>
+                        <div className='project-name'>
+                            <span>
+                                <h3>Discord Bot</h3>
+                            </span>
+                            <div>
+                                <a href='https://github.com/brockmortenson/discordjs-bot' target='_blank' rel='noreferrer' style={{ textDecoration: 'none', color: 'black' }}>- GitHub Repo</a>
+                                <p>- No Demo</p>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <div className='examples'>
+                    <img src={goTravel} alt='goTravel-screenshot' />
+                    <img src={creativeMkrt} alt='creative-marketplace' />
                 </div>
             </div>
         </div>
