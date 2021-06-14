@@ -114,14 +114,14 @@ p {
         align-items: center;
     }
 
-    img {
+    .examples img {
         width: 350px;
         height: 175px;
     }
 }
 
 @media (max-width: 566px) {
-    img {
+    .examples img {
         width: 300px;
         height: 150px;
     }
