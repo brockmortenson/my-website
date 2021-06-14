@@ -102,7 +102,7 @@ p {
         flex-direction: column;
     }
 
-    img {
+    .examples img {
         width: 400px;
         height: 200px;
     }
