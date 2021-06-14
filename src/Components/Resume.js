@@ -1,11 +1,12 @@
-import resume_webdev_scr from '../images/resume_webdev_scr.png'
+import resume from '../images/resume_screenshot.png'
 import '../styles/resume.css';
 
 function Resume() {
     return (
         <div className='Resume'>
             <div className='resume-container'>
-                <img src={resume_webdev_scr} alt='brock_resume' />
+                <img src={resume} alt='brock_resume' />
+                <p>( Links are not clickable as this is a screenshot )</p>
             </div>
         </div>
     )

@@ -26,6 +26,11 @@
     border-radius: 5px;
 }
 
+.resume-container p {
+    margin-top: 15px;
+    text-align: center;
+}
+
 @media (max-width: 1241px) {
     .resume-container img {
         width: 500px;
@@ -36,6 +41,9 @@
     .resume-container img {
         width: 300px;
         height: 300px;
+    }
+    .resume-container p {
+        font-size: 16px;
     }
 }
 @media (min-width: 2000px) {
