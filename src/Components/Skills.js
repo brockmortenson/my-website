@@ -1,3 +1,13 @@
+import git from '../images/git.png';
+import rt from '../images/react.png';
+import nodejs from '../images/nodejs.png';
+import js from '../images/js.png';
+import html from '../images/html.png';
+import css from '../images/css.webp';
+import postgres from '../images/postgresql.png';
+import sass from '../images/sass.png';
+import expo from '../images/expo.jpg';
+import discord from '../images/discord.Default';
 import '../styles/skills.css';
 
 function Skills() {
@@ -7,35 +17,43 @@ function Skills() {
                 <h1>Skills</h1>
                 <section className='skill-img'>
                     <div>
-                        <img src='https://git-scm.com/images/logos/downloads/Git-Icon-Black.png' alt='git' />
+                        <img src={git} alt='git' />
                         <p>Git</p>
                     </div>
                     <div>
-                        <img src='https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png' alt='react' />
-                        <p>React.js</p>
+                        <img src={rt} alt='react' />
+                        <p>React.js / React Native</p>
                     </div>
                     <div>
-                        <img src='https://img.icons8.com/color/452/nodejs.png' alt='node' />
+                        <img src={nodejs} alt='node' />
                         <p>Node.js</p>
                     </div>
                     <div>
-                        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png'alt='js' />
+                        <img src={js} alt='js' />
                         <p>JavaScript ES6</p>
                     </div>
                     <div>
-                        <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png' alt='html' />
+                        <img src={html} alt='html' />
                         <p>HTML5</p>
                     </div>
                     <div>
-                        <img src='https://extasius.com/wp-content/uploads/2020/11/css3-logo.png' alt='css' />
+                        <img src={css} alt='css' />
                         <p>CSS3</p>
                     </div>
                     <div>
-                        <img src='https://workwiththebest.intraway.com/wp-content/uploads/sites/4/2016/11/asd-2.png' alt='postgresql' />
+                        <img src={postgres} alt='postgresql' />
                         <p>PostgreSQL</p>
                     </div>
                     <div>
-                        <img src='https://jasonhaxstuff.gallerycdn.vsassets.io/extensions/jasonhaxstuff/discord-js-tools/0.0.3/1530824658924/Microsoft.VisualStudio.Services.Icons.Default' alt='discord.js' />
+                        <img src={sass} alt='sass' />
+                        <p>SASS</p>
+                    </div>
+                    <div>
+                        <img src={expo} alt='discord.js' />
+                        <p>Expo</p>
+                    </div>
+                    <div>
+                        <img src={discord} alt='discord.js' />
                         <p>Discord.js</p>
                     </div>
                 </section>
