@@ -25,6 +25,7 @@
 
 .Header p {
     cursor: pointer;
+    transition: all 0.4s ease;
 }
 
 .Header p:hover {

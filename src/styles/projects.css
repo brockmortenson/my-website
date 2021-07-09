@@ -49,6 +49,7 @@
 .links-container a {
     font-size: 20px;
     padding: 10px;
+    transition: all 0.4s ease;
 }
 
 .links-container a:hover {
