@@ -15,10 +15,19 @@ function Experience() {
                             <p>Developed travel site using React and Node to provide a simple user experience for browsing and purchasing specific tours. Provided authentication and user credentials using Bcrypt to ensure a secure shopping experience. Integrated NodeMailer to provide a more interactive user experience.</p>
                         </article>
                         <br />
-                        <article>
+                        <article style={{ border: 'none' }}>
                             - Creative Marketplace -
                             <p style={{ fontStyle: 'italic' }}>React | Redux | NodeJS | Express | PostgreSQL | MongoDB | NodeMailer | Stripe | Socket.io | Firebase | Chart.js</p>
                             <p>Formulated a web application to allow users to share and browse posts as well as engage in an ecommerce application. Worked in a team of four using GitHub Teams and Trello in a remote environment. Integrated a dynamic search bar including selectable filters. Integrated several technologies to enhance user engagement.</p>
+                        </article>
+                        <br />
+                        <br />
+                        <h2>Personal Projects</h2>
+                        <br />
+                        <article>
+                            - SGGE -
+                            <p style={{ fontStyle: 'italic' }}>React | Redux | NodeJS | Express | Massive | Bcrypt | PostgreSQL | CSS | Stripe</p>
+                            <p>Developed an ecommerce application that provides users with the ability to search, view, save, and purchase items. Provided authentication and user credentials using Bcrypt to ensure a secure shopping experience. Integrated Stripe to provide a means of acquiring items.</p>
                         </article>
                         <br />
                         <article style={{ border: 'none' }}>

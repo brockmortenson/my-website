@@ -1,4 +1,4 @@
-import resume from '../images/resume5.png';
+import resume from '../images/resume.png';
 import '../styles/resume.css';
 
 function Resume() {

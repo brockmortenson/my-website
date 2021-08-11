@@ -8,6 +8,7 @@ import postgres from '../images/postgresql.png';
 import sass from '../images/sass.png';
 import expo from '../images/expo.jpg';
 import discord from '../images/discord.Default';
+import stripe from '../images/stripe.jpg';
 import '../styles/skills.css';
 
 function Skills() {
@@ -49,8 +50,12 @@ function Skills() {
                         <p>SASS</p>
                     </div>
                     <div>
-                        <img src={expo} alt='discord.js' />
+                        <img src={expo} alt='expo' />
                         <p>Expo</p>
+                    </div>
+                    <div>
+                        <img src={stripe} alt='stripe' />
+                        <p>Stripe</p>
                     </div>
                     <div>
                         <img src={discord} alt='discord.js' />
