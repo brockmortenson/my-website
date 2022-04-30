@@ -5,7 +5,6 @@ function Resume() {
     return (
         <div className='Resume'>
             <div className='resume-container'>
-                <p>( Links are not clickable as this is a screenshot )</p>
                 <img src={resume} alt='brock_resume' />
             </div>
         </div>

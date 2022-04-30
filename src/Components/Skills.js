@@ -9,6 +9,11 @@ import sass from '../images/sass.png';
 import expo from '../images/expo.jpg';
 import discord from '../images/discord.Default';
 import stripe from '../images/stripe.jpg';
+import angular from '../images/angular.png';
+import csharp from '../images/csharp.png';
+import ts from '../images/ts.png';
+import docker from '../images/docker.png';
+import dotnet from '../images/dotnet.png';
 import '../styles/skills.css';
 
 function Skills() {
@@ -26,12 +31,28 @@ function Skills() {
                         <p>React.js / React Native</p>
                     </div>
                     <div>
+                        <img src={angular} alt='angular' />
+                        <p>Angular</p>
+                    </div>
+                    <div>
+                        <img src={csharp} alt='csharp' />
+                        <p>C#</p>
+                    </div>
+                    <div>
+                        <img src={dotnet} alt='dotnet core' />
+                        <p>.Net Core</p>
+                    </div>
+                    <div>
                         <img src={nodejs} alt='node' />
                         <p>Node.js</p>
                     </div>
                     <div>
                         <img src={js} alt='js' />
                         <p>JavaScript ES6</p>
+                    </div>
+                    <div>
+                        <img src={ts} alt='tss' />
+                        <p>TypeScript</p>
                     </div>
                     <div>
                         <img src={html} alt='html' />
@@ -48,6 +69,10 @@ function Skills() {
                     <div>
                         <img src={sass} alt='sass' />
                         <p>SASS</p>
+                    </div>
+                    <div>
+                        <img src={docker} alt='docker' />
+                        <p>Docker</p>
                     </div>
                     <div>
                         <img src={expo} alt='expo' />

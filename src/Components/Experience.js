@@ -7,6 +7,14 @@ function Experience() {
                 <h1>My Experience</h1>
                 <section className='my-experience'>
                     <div>
+                        <h2>Gold Computing | Provo, UT | July 2021 – Current | Junior Web Developer | Junior Software Developer</h2>
+                        <br />
+                        <article>
+                            <p>Optimized and built loan applications to process thousands of loans a da.y</p>
+                            <p>Participated in a team of developers to enhance and construct powerful and efficient client-facing applications to provide an amazing user experience.</p>
+                            <p>Engaged in and undertook group projects relying heavily on tools such as Git, Azure Devops, and Microsoft Teams</p>
+                        </article>
+                        <br />
                         <h2>Devmountain | Lehi, UT | February 2021 – May 2021 | Web Developer | Software Engineer (student)</h2>
                         <br />
                         <article>
