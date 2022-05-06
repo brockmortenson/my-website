@@ -3,8 +3,8 @@
   height: 100vh;
   overflow-y: scroll;
   overflow-x: hidden;
-  background: rgb(0,0,0);
-  background: linear-gradient(90deg, rgba(0,0,0,0.2225841020001751) 0%, rgba(116,189,203,0.3038165949973739) 0%, rgba(116,189,203,1) 100%);
-
-  /* background-color: #74BDCB; */
+  background: #82A3E0;
+  background: -webkit-linear-gradient(top left, #82A3E0, #5D5A5A);
+  background: -moz-linear-gradient(top left, #82A3E0, #5D5A5A);
+  background: linear-gradient(to bottom right, #82A3E0, #5D5A5A);
 }

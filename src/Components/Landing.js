@@ -18,7 +18,7 @@ function Landing() {
                     </section>
                     <div className='biography'>
                         <h1>About Me</h1>
-                        <p>I am a full-stack developer in Logan, Utah with a passion for both the hardware and software aspects of computers. I am a graduate of Devmountain's Web Development Program, where I trained in React-based applications, learning full-stack web development. The full-stack that I am proficient in includes React, Node, Express, and PostgreSQL.</p>
+                        <p>I am a Junior Full-Stack developer in Provo, Utah with a passion for both the hardware and software aspects of computers. I am a coding bootcamp graduate with expertise in both PERN and MEAN stacks</p>
                         <br />
                         <p>In my free time I occasionally run marathons, play video games, and build computers. I also enjoy casually coding, learning new technologies along with their respective syntax, and developing web applications such as this website. </p>
                     </div>
