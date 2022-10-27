@@ -7,12 +7,13 @@ function Experience() {
                 <h1>My Experience</h1>
                 <section className='my-experience'>
                     <div>
-                        <h2>Gold Computing | Provo, UT | July 2021 – Current | Junior Web Developer | Junior Software Developer</h2>
+                        <h2>DHI Computing Service | Provo, UT | July 2021 – Current | Web Developer | Software Developer</h2>
                         <br />
                         <article>
                             <p>Optimized and built loan applications to process thousands of loans a da.y</p>
                             <p>Participated in a team of developers to enhance and construct powerful and efficient client-facing applications to provide an amazing user experience.</p>
                             <p>Engaged in and undertook group projects relying heavily on tools such as Git, Azure Devops, and Microsoft Teams</p>
+                            <br />
                         </article>
                         <br />
                         <h2>Devmountain | Lehi, UT | February 2021 – May 2021 | Web Developer | Software Engineer (student)</h2>
@@ -21,6 +22,7 @@ function Experience() {
                             - GoTravel -
                             <p style={{ fontStyle: 'italic' }}>React | Redux | NodeJS | Express | PostgreSQL | CSS | NodeMailer</p>
                             <p>Developed travel site using React and Node to provide a simple user experience for browsing and purchasing specific tours. Provided authentication and user credentials using Bcrypt to ensure a secure shopping experience. Integrated NodeMailer to provide a more interactive user experience.</p>
+                            <br />
                         </article>
                         <br />
                         <article style={{ border: 'none' }}>
@@ -36,6 +38,7 @@ function Experience() {
                             - SGGE -
                             <p style={{ fontStyle: 'italic' }}>React | Redux | NodeJS | Express | Massive | Bcrypt | PostgreSQL | CSS | Stripe</p>
                             <p>Developed an ecommerce application that provides users with the ability to search, view, save, and purchase items. Provided authentication and user credentials using Bcrypt to ensure a secure shopping experience. Integrated Stripe to provide a means of acquiring items.</p>
+                            <br />
                         </article>
                         <br />
                         <article style={{ border: 'none' }}>
