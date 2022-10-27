@@ -7,7 +7,8 @@
 
 .skills-container {
     width: 65%;
-    height: 140vh;
+    /* height: 140vh; */
+    height: 100%;
     padding: 40px;
     display: flex;
     flex-direction: column;
@@ -44,6 +45,7 @@
 .skill-img div {
     width: 300px;
     text-align: center;
+    padding-block: 8px;
 }
 
 .skill-img p {
@@ -59,10 +61,10 @@
 @media (max-width: 1019px) {
     .skill-img {
         width: 300px;
-        height: 1500px;
+        height: 1900px;
     }
 
     .skills-container {
-        height: 210vh;
+        height: 230vh;
     }
 }
